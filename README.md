@@ -4,7 +4,7 @@
 
 <h3 align="center">👋 It's me! 👋</h3>
 <p align="center">
-  <b>Backend Developer</b> 👩‍💻 <br>
+  <b>AI Developer</b> 👩‍💻 <br>
   <b>I'm growing everyday</b> 🌿
 </p>
 
