@@ -23,7 +23,7 @@
 
 <h3 align="center">🌈 Follow Me 🌈</h3>
 <p align="center">
-  <a href="https://velog.io/@hyeinisfree"><img src="https://img.shields.io/badge/Notion%20Blog-000000?style=flat-square&logo=Notion&logoColor=white&link=https://velog.io/@hyeinisfree"/></a>&nbsp
+  <a href="https://www.notion.so/1459c1e4448447c493edd1c938a033c5?pvs=4"><img src="https://img.shields.io/badge/Notion%20Blog-000000?style=flat-square&logo=Notion&logoColor=white&link=https://www.notion.so/1459c1e4448447c493edd1c938a033c5?pvs=4"/></a>&nbsp
   <a href="https://www.instagram.com/doxng_99/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/doxng_99/"/></a>&nbsp
   <a href="mailto:steven6774@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=kimhyein7110@gmail.com"/></a>
 </p>
