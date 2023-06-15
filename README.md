@@ -15,7 +15,7 @@
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=PyTorch&logoColor=white"/></a>&nbsp 
   <br>
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=TensorFlow&logoColor=white"/></a>&nbsp
-  <img src="https://img.shields.io/badge/MATLAB-6DB33F?style=flat-square&logo=MATLAB&logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/MATLAB-0062AD?style=flat-square&logo=MATLAB&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=Ubuntu&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/ROS-22314E?style=flat-square&logo=ROS&logoColor=white"/></a>&nbsp
   <br>
