@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Dong%20Yeong's&fontSize=90&animation=fadeIn&fontAlignY=38&desc=GitHub%20Profile%20!&descAlignY=51&descAlign=62)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Dong%20Yeong's&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Welcome%20to%20my%20GitHub%20Profile%20!&descAlignY=51&descAlign=62)
 
 
 <h3 align="center">👋 It's me! 👋</h3>
