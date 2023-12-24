@@ -3,7 +3,7 @@
 
 <h3 align="center">👋 It's me! 👋</h3>
 <p align="center">
-  <b>AI Developer</b> 👩‍💻 <br>
+  <b>Artificial Intelligence Engineer</b> 👩‍💻 <br>
   <b>I'm growing everyday</b> 🌿
 </p>
 
